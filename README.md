@@ -11,11 +11,11 @@ Generar insights comerciales para optimizar la oferta y mejorar la experiencia d
 📁 Datasets Utilizados
 El proyecto trabaja con tres fuentes principales de datos:
 
-plans.csv: Catálogo de planes disponibles
+**plans.csv**: Catálogo de planes disponibles
 Precio, minutos incluidos, GB incluidos, costo por extras
-users.csv: Información demográfica de clientes
+**users.csv**: Información demográfica de clientes
 Edad, ciudad, fecha de registro, plan contratado, churn
-usage.csv: Datos de uso real de servicios
+**usage.csv**: Datos de uso real de servicios
 Duración de llamadas, longitud de mensajes, actividad por usuario
 🔄 Etapas del Análisis Realizadas
 ### 1. Exploración y Limpieza de Datos
