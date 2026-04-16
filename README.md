@@ -53,7 +53,7 @@ Duración de llamadas, longitud de mensajes, actividad por usuario
 3. Descarga los datasets en la carpeta del proyecto
 4. Ejecuta: jupyter notebook analisis_connectatel.ipynb
 
-📋 Guía de Reproducción
+###📋 Guía de Reproducción
 ### Requisitos Previos
 - Python 3.7+
 - Bibliotecas: pandas, numpy, matplotlib, seaborn
